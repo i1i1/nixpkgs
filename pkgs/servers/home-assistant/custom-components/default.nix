@@ -10,6 +10,8 @@
 
   better_thermostat = callPackage ./better_thermostat {};
 
+  dreame-vacuum = callPackage ./dreame-vacuum {};
+
   emporia_vue = callPackage ./emporia_vue {};
 
   epex_spot = callPackage ./epex_spot {};
