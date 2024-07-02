@@ -8324,6 +8324,12 @@
     githubId = 2789926;
     name = "Imran Hossain";
   };
+  i1i1 = {
+    name = "Ivan Rybin";
+    email = "vanyarybin1@live.ru";
+    github = "i1i1";
+    githubId = 22083325;
+  };
   iagoq = {
     github = "iagocq";
     githubId = 18238046;
